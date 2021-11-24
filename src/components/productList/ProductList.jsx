@@ -1,6 +1,7 @@
 import "./ProductList.css";
 import Product from "../product/Product";
 import { products } from "../../common/data";
+import React from "react";
 
 const ProductList = () => {
   return (
@@ -25,4 +26,4 @@ const ProductList = () => {
   );
 };
 
-export default ProductList;
+export default React.memo(ProductList);

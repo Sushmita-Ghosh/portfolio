@@ -1,3 +1,4 @@
+import React from "react";
 import "./Product.css";
 
 const Product = ({ img, link }) => {
@@ -16,4 +17,4 @@ const Product = ({ img, link }) => {
   );
 };
 
-export default Product;
+export default React.memo(Product);
