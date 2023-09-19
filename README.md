@@ -5,3 +5,6 @@
 * UI Framwork : React
 * CSS : External CSS classes
 * State Management : Context-API
+
+### To Do:
+* Optimise Images
