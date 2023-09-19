@@ -3,5 +3,5 @@
 ### Tech Stack:
 ---
 * UI Framwork : React
-* CSS : Styled-Componets
-* State Management : React-Redux & Redux Toolkit
+* CSS : External CSS classes
+* State Management : Context-API
